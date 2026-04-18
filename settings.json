@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "survival-Qfyn.aternos.me",
+    "port": 15256,
     "version": "1.21.1"
   },
   "position": {
@@ -26,8 +26,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
@@ -65,7 +65,7 @@
     "avoidMobs": true,
     "combat": true,
     "beds": true,
-    "chat": true,
+    "chat": false,
     "console-commands": true
   },
   "combat": {
